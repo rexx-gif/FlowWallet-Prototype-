@@ -1,16 +1,36 @@
-# flow_wallet
+# Flow Wallet UI
 
-A new Flutter project.
+Flow Wallet UI adalah desain tampilan login modern untuk aplikasi dompet digital (e-wallet) yang dibuat menggunakan Flutter.  
+Project ini berfokus pada tampilan antarmuka yang clean, minimalis, dan responsive untuk perangkat mobile.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- Modern dark mode interface
+- Login & register switch tab
+- Email input field
+- Password input field
+- Google sign in button
+- Responsive layout
+- Clean reusable widget structure
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Material Design
+- Font Awesome Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Preview
+
+Tambahkan screenshot project di sini:
+
+![Preview](assets/preview.png)
+
+## 📂 Project Structure
+
+```bash
+lib/
+ ┣ pages/
+ ┃ ┗ login_page.dart
+ ┣ widgets/
+ ┗ main.dart

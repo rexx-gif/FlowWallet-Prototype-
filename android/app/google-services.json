@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "212655381778",
+    "project_id": "flow-wallet-8cbd3",
+    "storage_bucket": "flow-wallet-8cbd3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212655381778:android:cd8a65ac49f816b647a7cb",
+        "android_client_info": {
+          "package_name": "com.example.flow_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212655381778-1nj45dh8vh1b52ssvl4rtdd334vgqm0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flow_wallet",
+            "certificate_hash": "fad08aef57619f1433c90b7346a0db70e33a695a"
+          }
+        },
+        {
+          "client_id": "212655381778-j9h3srmjpnu3kaqg07t38vvv7jlv5r7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3oiZSz8f810kQ_zFX8n2CvzaD42H1jlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212655381778-j9h3srmjpnu3kaqg07t38vvv7jlv5r7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212655381778-uqb54fl5k8r1o57ompnn87l66c06k78g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flowWallet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212655381778:android:5d8fad8969f1305447a7cb",
+        "android_client_info": {
+          "package_name": "com.flow_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212655381778-j9h3srmjpnu3kaqg07t38vvv7jlv5r7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3oiZSz8f810kQ_zFX8n2CvzaD42H1jlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212655381778-j9h3srmjpnu3kaqg07t38vvv7jlv5r7c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212655381778-uqb54fl5k8r1o57ompnn87l66c06k78g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flowWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

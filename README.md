@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💸 FlowWallet
 
 Aplikasi manajemen keuangan pribadi berbasis Flutter. Pantau pemasukan, pengeluaran, dan saldo kamu dengan mudah — semua tersimpan lokal di HP kamu.
